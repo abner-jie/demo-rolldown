@@ -1,3 +1,3 @@
-const num: number = 1;
+const num: number = 11;
 
 console.log(num);
