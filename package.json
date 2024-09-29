@@ -1,0 +1,11 @@
+{
+  "name": "demo-rolldown",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "rolldown -c"
+  },
+  "devDependencies": {
+    "rolldown": "nightly"
+  }
+}
